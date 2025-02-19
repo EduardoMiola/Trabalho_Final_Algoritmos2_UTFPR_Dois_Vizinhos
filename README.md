@@ -35,7 +35,7 @@ O projeto implementa um jogo da forca que permite ao usuário:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://seu-repositorio-url.git
+   git clone https://github.com/EduardoMiola/Trabalho_Final_Algoritmos2_UTFPR_Dois_Vizinhos.git
    cd Trabalho_Final_Algoritmos2_UTFPR_Dois_Vizinhos/src
    ```
 

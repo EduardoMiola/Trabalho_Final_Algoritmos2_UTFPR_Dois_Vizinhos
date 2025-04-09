@@ -51,6 +51,7 @@ O projeto implementa um jogo da forca interativo com as seguintes funcionalidade
 2. **Compile o código:**
 
    ```bash
+   mkdir -p output
    gcc -o output/jogo main.c
    ```
 
